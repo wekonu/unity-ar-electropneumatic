@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="relay" size="50.000000 30.581614" />
+    <ImageTarget name="pushbutton" size="50.000000 30.581614" />
+    <ImageTarget name="proxMag" size="50.000000 30.581614" />
+    <ImageTarget name="proxInd" size="50.000000 30.581614" />
+    <ImageTarget name="proxCap" size="50.000000 30.581614" />
+    <ImageTarget name="power" size="50.000000 30.581614" />
+    <ImageTarget name="pencapaian" size="50.000000 30.581614" />
+    <ImageTarget name="limitswitch" size="50.000000 30.581614" />
+    <ImageTarget name="kuis" size="50.000000 30.581614" />
+    <ImageTarget name="kikd" size="50.000000 30.581614" />
+    <ImageTarget name="intro" size="50.000000 30.581614" />
+    <ImageTarget name="3p2" size="50.000000 30.581614" />
+  </Tracking>
+</QCARConfig>
